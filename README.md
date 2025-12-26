@@ -10,10 +10,13 @@ A modern, full-stack weather application built with **Flask microservices**, fea
 
 ### Landing Page
 ![Landing Page](screenshots/landing.png)
+![Login Page](screenshots/landing2.png)
 
 ### Weather Dashboard
 ![Dashboard](screenshots/dashboard.png)
-
+![Testing](screenshots/test.mp4)
+###  Demo
+![Demo](screenshots/demoo.mp4)
 ## 🏗️ Architecture Overview
 
 This project implements a **microservices architecture** with three independent services:
